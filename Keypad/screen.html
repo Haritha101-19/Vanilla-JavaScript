@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Keypad tone</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link  rel="stylesheet" href="style.css" type="text/css">
+        <script src="index.js"></script>
+    </head>
+    <body>
+        <div class="keys">
+            <div data-key="65"class="key">
+                <kbd>A</kbd><br>
+                <p class="sound">Clap</p>
+            </div>
+            <div data-key="83" class="key">
+                <kbd>S</kbd><br>
+                <p class="sound">Hithat</p>
+            </div>
+            <div data-key="68" class="key">
+                <kbd>D</kbd><br>
+                <p class="sound">Kick</p>
+            </div>
+            <div data-key="70" class="key">
+                <kbd>F</kbd><br>
+                <p class="sound">Openhat</p>
+            </div>
+            <div data-key="74" class="key">
+                <kbd>J</kbd><br>
+                <p class="sound">Boom</p>
+            </div>
+            <div data-key="75" class="key">
+                <kbd>K</kbd><br>
+                <p class="sound">Ride</p>
+            </div>
+            <div data-key="76" class="key">
+                <kbd>L</kbd> <br>
+                <p class="sound">Snare</p>
+            </div>
+        </div>
+        <audio data-key="65" src="/clap.wav" type="audio/wav"></audio>
+        <audio data-key="83" src="/hihat.wav" type="audio/wav"></audio>
+        <audio data-key="68" src="/kick.wav" type="audio/wav"></audio>
+        <audio data-key="70" src="/openhat.wav" type="audio/wav"></audio>
+        <audio data-key="74" src="/boom.wav" type="audio/wav"></audio>
+        <audio data-key="75" src="/ride.wav" type="audio/wav"></audio>
+        <audio data-key="76" src="/snare.wav" type="audio/wav"></audio>
+        <script src="index.js" type="text/javascript"></script> 
+    </body>
+</html>
