@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgb(167, 15, 154);
+    height: 100vh;
+}
+.inputs{
+    width: 360px;
+    height: 376px;
+}
+.inbox{
+    display: flex;
+    padding: 20px;
+    border: 2px solid #b2b2b2;
+    transition: background 0.2s;
+}
+.inbox:nth-child(even){
+    transform: perspective(100px) rotateX(3deg) translateY(2px) scale(1.001);
+    background: linear-gradient(to bottom,#ffffff 0%,#efefef 100%);
+}
+.inbox:nth-child(odd){
+    transform: perspective(100px) rotateX(-3deg) translateY(3px);
+    background: linear-gradient(to bottom,#ffffff 0%,#efefef 100%);
+}
+.inbox input{
+    cursor: pointer;
+}
+.inbox input:checked+p{
+    text-decoration: line-through;
+    background: #f9f9f9;
+}
+.inbox p{
+    padding-left: 20px;
+    font-weight: bold;
+}
