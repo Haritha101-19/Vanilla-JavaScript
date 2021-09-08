@@ -1,19 +1,20 @@
 # Vanilla-JavaScript
+<h2>Screenshots of Short Project</h2>
 <ol>
-  <li>KEYPAD<br><img src=""></li>
-  <li>CLOCK<br><img src=""></li>
-  <li>FUN WITH HTML5<br><img src=""></li>
-  <li>PLAY WITH JS VARIABLES<br><img src=""></li>
-  <li>HOLD SHIFT TO CHECK MULTIPLE FLEXBOXES<br><img src=""></li>
-  <li>FLEX PANELS IMAGE GALLERY<br><img src=""></li>
-  <li>CUSTOM HTML5 VIDEO PLAYER<br><img src=""></li>
-  <li>AJAX TYPE AHEAD<br><img src=""></li>
-  <li><br><img src=""></li>
-  <li><br><img src=""></li>
-  <li><br><img src=""></li>
-  <li><br><img src=""></li>
-  <li><br><img src=""></li>
-  <li><br><img src=""></li>
-  <li><br><img src=""></li>
+  <li><b>AJAX TYPE AHEAD</b><br><br><img src="Ajax Screenshot.png"></li><br><br>
+  <li><b>CLOCK</b><br><br><img src="Clock Screenshot.png"></li><br><br>
+  <li><b>CUSTOM HTML5 VIDEO PLAYER</b><br><br><img src="CustomVideoPlayer.png"></li><br><br>
+  <li><b>FLEX PANELS IMAGE GALLERY</b><br><br><img src="Flexpanels Screenshot.png"></li><br><br>
+  <li><b>FUN WITH HTML5</b><br><br><img src="Canvas screenshot.png"></li><br><br>
+  <li><b>HOLD SHIFT TO CHECK MULTIPLE FLEXBOXES</b><br><br><img src="Shift Screenshot.png"></li><br><br>
+  <li><b>KEYPAD</b><br><br><img src="KeypadTone Screenshot.png"></li><br><br>
+  <li><b>PLAY WITH JS VARIABLES</b><br><br><img src="PlaywithJS Screenshot.png"></li><br><br>
+  <li><br><br><img src=""></li><br><br>
+  <li><br><br><img src=""></li><br><br>
+  <li><br><br><img src=""></li><br><br>
+  <li><br><br><img src=""></li><br><br>
+  <li><br><br><img src=""></li><br><br>
+  <li><br><br><img src=""></li><br><br>
+  <li><br><br><img src=""></li>
 </ol>
 
