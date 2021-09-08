@@ -8,8 +8,8 @@
   <li><b>FUN WITH HTML5</b><br><br><img src="Canvas screenshot.png"></li><br><br>
   <li><b>HOLD SHIFT TO CHECK MULTIPLE FLEXBOXES</b><br><br><img src="Shift Screenshot.png"></li><br><br>
   <li><b>KEYPAD</b><br><br><img src="KeypadTone Screenshot.png"></li><br><br>
+  <li><b>KEY SEQUENCE DETECTOR(KANOMI CODE)</b><br><br><img src="keysequence Screenshot.png"></li><br><br>
   <li><b>PLAY WITH JS VARIABLES</b><br><br><img src="PlaywithJS Screenshot.png"></li><br><br>
-  <li><br><br><img src=""></li><br><br>
   <li><br><br><img src=""></li><br><br>
   <li><br><br><img src=""></li><br><br>
   <li><br><br><img src=""></li><br><br>
