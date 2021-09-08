@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>KANOMI CODE</title>
+    <script type="text/javascript" src="http://www.cornify.com/js/cornify.js"></script>
+</head>
+<body>
+    <script>
+
+    const press=[];
+    const secret='haritha'; 
+
+    window.addEventListener('keyup',(e) => {
+        //console.log(e.key);
+        press.push(e.key);
+        press.splice(secret.length,press.length-secret.length);
+        if(press.join('').includes(secret)){
+            console.log('TADAAA!!');
+            cornify_add();
+        }
+        console.log(press);
+    });
+    
+
+    </script>
+    
+</body>
+</html>
