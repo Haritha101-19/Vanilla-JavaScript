@@ -9,10 +9,10 @@
   <li><b>HOLD SHIFT TO CHECK MULTIPLE FLEXBOXES</b><br><br><img src="Shift Screenshot.png"></li><br><br>
   <li><b>KEYPAD</b><br><br><img src="KeypadTone Screenshot.png"></li><br><br>
   <li><b>KEY SEQUENCE DETECTOR(KANOMI CODE)</b><br><br><img src="keysequence Screenshot.png"></li><br><br>
+  <li><b>LOCAL STORAGE</b><br><br><img src="localastorage Screenshot.png"></li><br><br>
+  <li><b>MOUSE MOVE TEXT SHADOW</b><br><br><img src="MOusemove Screenshot.png"></li><br><br>
   <li><b>PLAY WITH JS VARIABLES</b><br><br><img src="PlaywithJS Screenshot.png"></li><br><br>
   <li><b>SLIDE IN ON SCROLL</b><br><br><img src="Slidescroll Screenshot.png"></li><br><br>
-  <li><br><br><img src=""></li><br><br>
-  <li><br><br><img src=""></li><br><br>
   <li><br><br><img src=""></li><br><br>
   <li><br><br><img src=""></li><br><br>
   <li><br><br><img src=""></li>
